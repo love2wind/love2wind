@@ -14,4 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=love2wind)](https://github.com/anuraghazra/github-readme-stats)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=love2wind&show_icons=true&theme=radical">](https://metrics.lecoq.io/love2wind?template=classic)
+
+I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
+
+-   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit Python/JavaScript
+-   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
+-   :pencil2: Arch Linux / i3-wm / Oh My Zsh / NeoVim / Firefox
+-   :house: Going to be a freshman
+-   :man: Pronouns: he/him
+-   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
+
+---
+
