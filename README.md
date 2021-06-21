@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+ <img width="100px" src="https://avatars.githubusercontent.com/u/11996852?v=4" align="center" alt="GitHub" />
+ <h2 align="center">Love2wind's Github</h2>
+ <p align="center">一个爱瞎折腾的MJJ</p>
+</p>
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=love2wind&show_icons=true&theme=radical">](https://metrics.lecoq.io/love2wind?template=classic)
 
 I'm **love2wind**, a Bloger from China.
